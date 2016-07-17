@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+int fl(int N){
     int f2,f3,f4,i=2;
     f2=f3=f4=0;
     f2=1;
