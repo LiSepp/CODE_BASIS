@@ -9,3 +9,6 @@ except urllib2.HTTPError, e:
 	print e.reason
 else:
 	print "OK"
+	f = open("text.txt",'wb')
+f.write(result)
+f.close()

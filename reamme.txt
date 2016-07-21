@@ -1,3 +1,5 @@
+这是一个初学者练习代码的分组，最近在学习如何利用Python爬虫，也希望各位大神指教。我现在在学习的是崔庆才的博客，博主讲的很好。愿意一起学习的同学也可以通过我的邮箱yaoye084@gmail.com联系我。大家共同进步吧。
+http://cuiqingcai.com/968.html崔庆才的博客
 Git is a version control system.
 Git is free software.
 Git is a dis tributed version control systrm.
