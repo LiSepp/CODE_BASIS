@@ -1,0 +1,8 @@
+re.compile(string[,flag])
+re.match(pattern, string[, flags])
+re.search(pattern, string[, flags])
+re.split(pattern, string[, maxsplit])
+re.findall(pattern, string[, flags])
+re.finditer(pattern, string[, flags])
+re.sub(pattern, repl, string[, count])
+re.subn(pattern, repl, string[, count])
